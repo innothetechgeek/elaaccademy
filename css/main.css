@@ -591,7 +591,10 @@ hr {
 .home-area .content-description {
   font-size: 17px;
 }
-
+.portfolio-area .shufflejs .portfolio-wrapper .item-content {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
 .home-area .content-work,
 .home-area .content-hire {
   border-color: transparent;
